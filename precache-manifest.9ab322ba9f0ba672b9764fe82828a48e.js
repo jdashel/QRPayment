@@ -1,18 +1,18 @@
 self.__precacheManifest = [
   {
-    "revision": "fc8efc4b63cbf8404d31",
+    "revision": "0387a0795a8da3c884d7",
     "url": "/QRPayment/css/app.04eec470.css"
   },
   {
-    "revision": "fc8efc4b63cbf8404d31",
-    "url": "/QRPayment/js/app.e45a78e3.js"
+    "revision": "0387a0795a8da3c884d7",
+    "url": "/QRPayment/js/app.19204232.js"
   },
   {
     "revision": "c5f30aacc1b981f4650d",
     "url": "/QRPayment/js/chunk-vendors.be5deb8c.js"
   },
   {
-    "revision": "890806d50b94e5de90970aa84c5d449d",
+    "revision": "239dbd8a6b470c37ccfae4f9f825ed6d",
     "url": "/QRPayment/index.html"
   },
   {
