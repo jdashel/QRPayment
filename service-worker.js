@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/QRPayment/precache-manifest.e50327d1bc123a23bfd91f943ac0b01c.js"
+  "/QRPayment/precache-manifest.03152e22681f8d671a12e9f12fb35a60.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "qrpayment2"});

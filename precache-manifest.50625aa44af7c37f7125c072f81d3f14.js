@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dc870e5c90b9d7d868b1",
-    "url": "/QRPayment/css/app.633e7022.css"
+    "revision": "c680d9f18a8a0be6424a",
+    "url": "/QRPayment/css/app.c4c9f766.css"
   },
   {
-    "revision": "dc870e5c90b9d7d868b1",
-    "url": "/QRPayment/js/app-legacy.445b1b5a.js"
+    "revision": "c680d9f18a8a0be6424a",
+    "url": "/QRPayment/js/app-legacy.0447158f.js"
   },
   {
     "revision": "3558e1934ff2b788577d",
@@ -46,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "b91a0745cb203214e92b4adab3ab4ec9",
     "url": "/QRPayment/img/pay.b91a0745.svg"
+  },
+  {
+    "revision": "827c948671abacf89e43d552cb5d889d",
+    "url": "/QRPayment/img/fail.827c9486.svg"
   },
   {
     "revision": "32312383e2302b3ed2a79c909fad7aae",
@@ -108,7 +112,7 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/spinner_2.1aca05b5.svg"
   },
   {
-    "revision": "1f470a5a98019f11dab0bd47b16328d9",
+    "revision": "1d20bad02672e4ff6f66ed8e492888aa",
     "url": "/QRPayment/index.html"
   }
 ];
