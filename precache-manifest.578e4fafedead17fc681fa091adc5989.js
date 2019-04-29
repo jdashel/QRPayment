@@ -1,23 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "c680d9f18a8a0be6424a",
-    "url": "/QRPayment/css/app.c4c9f766.css"
+    "revision": "40af2627ed84f27387fb",
+    "url": "/QRPayment/css/app.4f82b2ee.css"
   },
   {
-    "revision": "c680d9f18a8a0be6424a",
-    "url": "/QRPayment/js/app-legacy.0447158f.js"
+    "revision": "40af2627ed84f27387fb",
+    "url": "/QRPayment/js/app-legacy.e793bd1b.js"
   },
   {
     "revision": "3558e1934ff2b788577d",
     "url": "/QRPayment/js/chunk-vendors-legacy.a9a14ed0.js"
   },
   {
+    "revision": "4e65dfc5193b418897d08d044bbb4600",
+    "url": "/QRPayment/img/phone.4e65dfc5.svg"
+  },
+  {
     "revision": "278a4939abbbd69ead0034bc9e779123",
     "url": "/QRPayment/img/commerce.278a4939.svg"
   },
   {
+    "revision": "7ead59afcc5cf7a501c90c748a42f767",
+    "url": "/QRPayment/img/smartphone.7ead59af.svg"
+  },
+  {
     "revision": "13e1b879f1f4d9f9636b5c3344b82399",
     "url": "/QRPayment/img/user.13e1b879.svg"
+  },
+  {
+    "revision": "59db2a08b80ee43f84837a6dd96c3ef6",
+    "url": "/QRPayment/img/os.59db2a08.svg"
   },
   {
     "revision": "334d63e3f050996af32245343daf0525",
@@ -36,12 +48,20 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/menu.0cceadc9.svg"
   },
   {
+    "revision": "0dd622b86dc9f2e6e13f3f98c59c2604",
+    "url": "/QRPayment/img/record.0dd622b8.svg"
+  },
+  {
     "revision": "0bb274b6d39fa9f5770c23606135985e",
     "url": "/QRPayment/img/bag.0bb274b6.svg"
   },
   {
     "revision": "e04c6feac950f91b61bdbe90a9621671",
     "url": "/QRPayment/img/password.e04c6fea.svg"
+  },
+  {
+    "revision": "ded2377b3aa765c81edbde053f0ab9bd",
+    "url": "/QRPayment/img/model.ded2377b.svg"
   },
   {
     "revision": "b91a0745cb203214e92b4adab3ab4ec9",
@@ -100,6 +120,10 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/back.6f002b75.svg"
   },
   {
+    "revision": "b28176fceea74a893b94ebed4b1179f5",
+    "url": "/QRPayment/img/record_small.b28176fc.svg"
+  },
+  {
     "revision": "533ce8fabbd67436c54f59a2446ffd39",
     "url": "/QRPayment/img/charge.533ce8fa.svg"
   },
@@ -108,11 +132,15 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/money.cc074f69.svg"
   },
   {
+    "revision": "18d635cf69beca18c93e6d425e05262f",
+    "url": "/QRPayment/img/version.18d635cf.svg"
+  },
+  {
     "revision": "1aca05b5fdda932d0f87cbe2b1d0eec5",
     "url": "/QRPayment/img/spinner_2.1aca05b5.svg"
   },
   {
-    "revision": "1d20bad02672e4ff6f66ed8e492888aa",
+    "revision": "b676d2f52533fbf08b4baacd988d812b",
     "url": "/QRPayment/index.html"
   }
 ];
