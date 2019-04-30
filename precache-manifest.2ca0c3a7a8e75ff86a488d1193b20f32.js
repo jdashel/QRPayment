@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e2d0146445fae979dfb7",
-    "url": "/QRPayment/css/app.97227099.css"
+    "revision": "4be288b225ffb4294500",
+    "url": "/QRPayment/css/app.253f5f3d.css"
   },
   {
-    "revision": "e2d0146445fae979dfb7",
-    "url": "/QRPayment/js/app-legacy.718976f4.js"
+    "revision": "4be288b225ffb4294500",
+    "url": "/QRPayment/js/app.55938412.js"
   },
   {
-    "revision": "092ae41c676e2013e104",
-    "url": "/QRPayment/js/chunk-vendors-legacy.ef5feed7.js"
+    "revision": "223d6217fadc3f261a0c",
+    "url": "/QRPayment/js/chunk-vendors.7d1c0651.js"
   },
   {
     "revision": "4e65dfc5193b418897d08d044bbb4600",
@@ -140,7 +140,11 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/spinner_2.1aca05b5.svg"
   },
   {
-    "revision": "c9c74432a313c1ee8dd991ec831d3023",
+    "revision": "bdf498a3c2ffb4ff2462c9d7994b2261",
     "url": "/QRPayment/index.html"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/QRPayment/robots.txt"
   }
 ];
