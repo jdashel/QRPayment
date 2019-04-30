@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "06b2fb08fcf402913b9d",
-    "url": "/QRPayment/css/app.b69e101d.css"
+    "revision": "5775b2e057e93c371ed0",
+    "url": "/QRPayment/css/app.97227099.css"
   },
   {
-    "revision": "06b2fb08fcf402913b9d",
-    "url": "/QRPayment/js/app.f3a8e215.js"
+    "revision": "5775b2e057e93c371ed0",
+    "url": "/QRPayment/js/app.689224cd.js"
   },
   {
     "revision": "223d6217fadc3f261a0c",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/QRPayment/img/spinner_2.1aca05b5.svg"
   },
   {
-    "revision": "49abf1e0b32e53131089a781b82f03a1",
+    "revision": "13fd886af41c00c11ed92b7ffe456378",
     "url": "/QRPayment/index.html"
   },
   {
